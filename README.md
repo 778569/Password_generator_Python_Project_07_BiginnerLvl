@@ -1,22 +1,19 @@
-# Pasword_generator_Python_Project_07_BiginnerLvl
+# Password Generator Project
+
 Welcome to the Password Generator Project! This Python script generates secure passwords based on your preferences for the number of letters, symbols, and numbers. Whether you need a strong password for your online accounts or want to enhance your online security, this tool can help you create robust passwords.
 
+## Features
 
-Features
-Generates passwords with a mix of letters (both uppercase and lowercase), symbols, and numbers.
-Allows you to customize the number of letters, symbols, and numbers in your password.
-Randomizes the order of characters for added security.
+- Generates passwords with a mix of letters (both uppercase and lowercase), symbols, and numbers.
+- Allows you to customize the number of letters, symbols, and numbers in your password.
+- Randomizes the order of characters for added security.
 
+## How to Use
 
-bash
-Copy code
-cd password-generator
-Run the script:
+1. Clone this repository to your local machine:
 
-bash
-Copy code
-python password_generator.py
-Follow the on-screen prompts to specify your password requirements:
+   ```bash
+   git clone https://github.com/778569/password-generator.git
 
 Enter the number of letters you want in your password.
 Specify the number of symbols you'd like to include.
