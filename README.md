@@ -13,7 +13,7 @@ Welcome to the Password Generator Project! This Python script generates secure p
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/778569/password-generator.git
+   https://github.com/778569/Password_generator_Python_Project_07_BiginnerLvl
 
 Enter the number of letters you want in your password.
 Specify the number of symbols you'd like to include.
