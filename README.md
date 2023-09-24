@@ -7,13 +7,6 @@ Generates passwords with a mix of letters (both uppercase and lowercase), symbol
 Allows you to customize the number of letters, symbols, and numbers in your password.
 Randomizes the order of characters for added security.
 
-How to Use
-Clone this repository to your local machine:
-
-bash
-Copy code
-git clone https://github.com/yourusername/password-generator.git
-Navigate to the project directory:
 
 bash
 Copy code
